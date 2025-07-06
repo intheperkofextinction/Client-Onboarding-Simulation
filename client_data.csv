@@ -1,0 +1,201 @@
+Client_ID,Name,Nationality,Documented_submitted,AML_Flag,KYC_Verified,Review_Status
+3ff5dcb5-f5bb-4d9b-88ac-dc9188a13f60,Vincent Bradford,Suriname,False,False,True,Rejected- Missing Docs
+157a3910-194c-4983-ad94-73d7aaa38f0b,Mary Lewis,Samoa,False,False,False,Rejected- Missing Docs
+5db511fb-7004-40e4-9ba5-c3eac2fefc8b,Tonya Smith,Saint Martin,False,False,True,Rejected- Missing Docs
+eb4fef40-0f54-4e27-8562-f070ff4cb711,Vanessa Miller,Sweden,False,False,True,Rejected- Missing Docs
+de1f9f4b-b879-4236-a9e6-feee0710cc13,Robert Thornton,Nicaragua,False,False,False,Rejected- Missing Docs
+658f900f-40f1-4559-8b18-c9369d406202,Tyler Garcia,Singapore,False,False,False,Rejected- Missing Docs
+7ffd8a6b-829a-48c3-88dc-c89106de37c7,Kathleen Fowler,Kuwait,False,False,False,Rejected- Missing Docs
+cca1e385-47bd-4d03-8ce2-174e14f3ab2d,Kara Weaver,Romania,False,False,False,Rejected- Missing Docs
+8f5154b7-534a-4a69-bdd2-98ac4667aa1d,Elizabeth Compton,Lao People's Democratic Republic,False,False,True,Rejected- Missing Docs
+d39c2090-9c7e-4271-aee3-18c1f60a6615,Mary Berry,El Salvador,True,False,True,approved
+ddf0b53e-32c5-454a-a98a-37d91d272389,Robert Lewis,Cocos (Keeling) Islands,True,False,False,Rejected - KYC Failed
+2f1a058f-6fed-4ec0-968e-045d1f7a6af2,Eric Hopkins,Maldives,False,False,False,Rejected- Missing Docs
+fce02e16-818b-48fd-a7a9-9b86a2deb69e,James Munoz,Japan,True,False,False,Rejected - KYC Failed
+94f9539c-cf83-470e-868f-3ebd9cb8a81d,Dana Nixon,Taiwan,True,False,False,Rejected - KYC Failed
+7da1440f-77f1-471b-b139-b70646779c3e,Kayla Walker,Luxembourg,True,False,True,approved
+8ac5c249-2c0d-44c2-8938-72e310b7e86e,Sue Martinez,United Arab Emirates,False,True,True,Rejected- Missing Docs
+1d93f58a-1631-4221-91f5-402beffe8507,Thomas Miller,Nepal,False,False,True,Rejected- Missing Docs
+77b63416-5f5f-4472-bfd0-f8cd3ac6e579,Kevin Barnes,Cameroon,False,False,True,Rejected- Missing Docs
+51f04254-3d69-4b17-90b0-5c7432ac849a,Emily Howard,Iceland,False,False,False,Rejected- Missing Docs
+dcc83514-4f99-4d44-97d2-b421b7309789,Carl Simpson,Liechtenstein,False,False,True,Rejected- Missing Docs
+11b08c69-7cda-45cb-94bc-89d9fb17e8fe,Wendy Bell,Cameroon,False,False,False,Rejected- Missing Docs
+449293a2-a54b-4327-b9ff-efad2663e3c4,Joseph Roberts,Vietnam,True,False,False,Rejected - KYC Failed
+16c50a19-9025-42a4-a838-9a951e62949d,Robert Kramer,Bouvet Island (Bouvetoya),False,True,True,Rejected- Missing Docs
+9dd4abfe-554c-4694-8b6a-a8d6b5c7df66,Gabriela Jones,American Samoa,True,False,False,Rejected - KYC Failed
+5cd27aa4-f313-4f42-b498-b051f35f19c2,Stephanie Brock,French Polynesia,True,False,True,approved
+b7828921-1b4e-494e-b97d-6c68cc762efa,Melody Marsh,Greece,False,False,True,Rejected- Missing Docs
+4ae65e66-e283-4137-9878-f5815df3d780,Beth Cherry,Switzerland,False,False,False,Rejected- Missing Docs
+0b91acb0-d293-43e2-a231-4feffa522591,Christopher Beck,Oman,False,False,False,Rejected- Missing Docs
+08aed730-9424-48ee-83a2-fba9cb3d66e2,James Caldwell,Antarctica (the territory South of 60 deg S),False,False,True,Rejected- Missing Docs
+12bcd35b-3738-431b-8185-a2ea3056ca13,Michael Dillon,Hong Kong,True,False,True,approved
+e40d524e-b9ec-4910-97ca-9768dde6cb90,Jason Hardin,Equatorial Guinea,True,False,True,approved
+2aeca100-e28b-4cb3-b2ed-a5f9032a3626,Jennifer Nguyen,Serbia,True,False,True,approved
+a00de62f-cd59-41d0-aeda-e92604b52b61,Victoria Henderson,Congo,True,True,False,Escalated - AML Alert
+9f9e0b8b-0cfe-4cf9-8f78-7f489713bc7c,Brittany Cortez,Guam,False,False,True,Rejected- Missing Docs
+dd97e369-5696-4d71-9cd1-b2537359db27,Zachary Dunn,Palau,False,False,False,Rejected- Missing Docs
+bc78c719-5e1d-44c7-bdc3-f04c011e67c4,Randy Carroll,Panama,True,False,False,Rejected - KYC Failed
+1c865538-aaf1-4b2e-bb70-10166dbdfb01,Jaime Cuevas,United States Virgin Islands,True,False,True,approved
+a3e57022-f27a-4f73-9a2d-6a7d53fa0ef3,Ashley Kennedy,Czech Republic,True,False,True,approved
+e6caf287-92df-4474-b309-5cfdc7e67cd8,Mr. Seth Garza,British Virgin Islands,True,True,False,Escalated - AML Alert
+69566bcc-6f00-4fbd-8033-31fabfa98728,Randy White,Guyana,False,False,False,Rejected- Missing Docs
+6c2237d8-9913-426d-978d-254616c7bb24,Andrew Wright,Sweden,False,False,False,Rejected- Missing Docs
+a065a413-f984-4321-b2a4-ceae8999bc55,Mrs. Cassandra House,Zambia,False,False,True,Rejected- Missing Docs
+765ce3b2-53bf-4ef0-a693-bd7f421ccded,Mrs. Dawn Hubbard,Portugal,False,False,False,Rejected- Missing Docs
+de8d1402-6396-4be2-b1e6-2ade9daf17f7,David Brown,Venezuela,True,True,True,Escalated - AML Alert
+f7fb7c0f-f042-45e9-a887-2aa32000a8c7,Paula Tran,French Polynesia,False,False,True,Rejected- Missing Docs
+5519bc43-dbce-44ba-a4ae-82f52705c2e2,Stephanie Hernandez,Congo,False,False,False,Rejected- Missing Docs
+220b9743-9bf0-4284-9dde-e1aa3e035fb1,Andrew Ferrell,Paraguay,False,False,False,Rejected- Missing Docs
+85d6d19e-d08f-4c83-b2df-bfe396c3664f,John Perkins,Ghana,False,False,False,Rejected- Missing Docs
+dec1a529-3659-4f36-ac34-5c0e5d2742e8,Jacob Davis,United States Virgin Islands,False,False,False,Rejected- Missing Docs
+d41287b7-29ab-4a52-a31d-7cd42e55c3f7,Jared Gray,Bermuda,True,False,False,Rejected - KYC Failed
+55099864-8e87-4fc0-b93b-29702d21d62e,Ernest Moore,Estonia,False,False,False,Rejected- Missing Docs
+c1a34b3c-e378-496a-a708-5b4e78b72954,Andrew Matthews,Micronesia,False,False,True,Rejected- Missing Docs
+c43d0381-6dda-4212-b038-d209658fa0c9,Elizabeth Francis,Gibraltar,False,True,False,Rejected- Missing Docs
+1dbf1339-701a-4aeb-907e-72591084e268,Debra Harvey,Portugal,False,False,False,Rejected- Missing Docs
+898d38c4-9327-44c8-8597-6ccadf587276,Jorge Mann,Turks and Caicos Islands,True,False,False,Rejected - KYC Failed
+b906a869-a4ad-4047-abf7-6a70ba48c6ad,Jessica Moran DVM,Turkmenistan,False,True,False,Rejected- Missing Docs
+67e40608-20c1-43b7-8e38-9c90472373c0,Aaron Johnson,Jamaica,False,False,True,Rejected- Missing Docs
+fc599ac9-ac46-405a-873f-56424ace4c6c,Penny Taylor,Grenada,True,False,True,approved
+b052a810-790b-4043-9541-d6dac5c1d346,Harold Ramos,Korea,False,False,False,Rejected- Missing Docs
+3d7848bd-fc02-40f4-86dd-5870bcdf5581,Stephanie Carson,Switzerland,True,True,True,Escalated - AML Alert
+3108b044-2ce8-444e-accb-86862b19ff05,Ann Thompson,Tonga,True,False,True,approved
+54399213-9e6e-4d67-9bb4-2abd9357ae2d,Thomas Rodriguez,Uruguay,False,True,True,Rejected- Missing Docs
+1eea2c0f-b88f-4304-804a-149e6f5a8de7,Craig Yates,Nepal,False,False,True,Rejected- Missing Docs
+c27d695a-ef70-448a-9734-90946095d5fc,Jill Russell DVM,Tajikistan,False,False,False,Rejected- Missing Docs
+6e61df0a-4ace-48e1-895d-cee6c70fbcc1,Mariah Vargas,Central African Republic,False,False,False,Rejected- Missing Docs
+542a3d0f-4fd0-491c-9dcd-ba8ba2f96aa7,George Becker,Serbia,False,False,True,Rejected- Missing Docs
+565e5d34-579d-47b9-9a33-f23790791a6d,Caitlyn Ross,Swaziland,False,False,True,Rejected- Missing Docs
+9262ef55-d2f8-4b08-9902-416649514105,Jenny Lucas,Greenland,True,False,False,Rejected - KYC Failed
+eeb109fc-bc63-4441-a30c-b984bbe37b80,Randall Kelley,Papua New Guinea,False,False,False,Rejected- Missing Docs
+9773867a-75c3-4735-8cb5-c1f9bb265e06,Steven Walsh,Saint Kitts and Nevis,True,False,False,Rejected - KYC Failed
+10905355-69ac-4ed2-9999-41400d9eb79d,Vanessa Bray,Ghana,False,False,False,Rejected- Missing Docs
+9715c9b2-3c0d-47c9-9a71-fd8cabc28dfa,Stephen Perez,American Samoa,False,False,False,Rejected- Missing Docs
+f7b29b42-6174-47c3-bfc6-a475dad90181,Nancy Lane,Uzbekistan,False,False,True,Rejected- Missing Docs
+60f3d15c-1c18-4b13-b731-20722d0a0f8c,Robert Zamora,Somalia,True,False,True,approved
+0098aba7-ff0f-4d95-995d-1c3dbfc179d7,Brenda Davis,Mali,False,True,False,Rejected- Missing Docs
+d471a6f6-8488-4ba6-b3e1-dae086823bfb,Kelsey Mclaughlin,Mozambique,False,False,True,Rejected- Missing Docs
+c6a7a3da-d6c7-49eb-ba7c-ee87160b6bbb,Patricia Acosta,Zimbabwe,False,False,True,Rejected- Missing Docs
+00732c02-b41b-43e2-91a0-ce80d33f684c,Rebecca Ward,Morocco,False,False,False,Rejected- Missing Docs
+f903fb00-63cb-4b44-b4b7-93016b9eaba8,Rachael Pope MD,Luxembourg,True,False,False,Rejected - KYC Failed
+42e7beb4-0048-4046-a9d8-c821141aabfc,Katherine Phillips,Sierra Leone,True,False,False,Rejected - KYC Failed
+6613e303-4d10-4b83-b69f-d66467cea13d,Christine Davies,Russian Federation,True,True,False,Escalated - AML Alert
+6cc0fa1e-d15c-47e2-941b-05c02409ee93,Alicia Williams,United Kingdom,False,False,False,Rejected- Missing Docs
+b067b11e-808e-4da9-b194-99d4b5f32e5e,James Hoffman,Bahrain,True,False,False,Rejected - KYC Failed
+de34d4cb-f842-4693-adab-c9d4478c5581,Mrs. Courtney Martin,Svalbard & Jan Mayen Islands,False,False,False,Rejected- Missing Docs
+b72377a9-e1b4-41bb-9905-758d27364790,Joe Melton,Isle of Man,True,False,True,approved
+04573079-4f7a-404d-8098-b91dfa86a6a1,Thomas Benjamin,Czech Republic,False,False,True,Rejected- Missing Docs
+89070733-20fa-46ee-8326-6bbfabcc9a98,Maureen Gray,Equatorial Guinea,False,False,True,Rejected- Missing Docs
+bb94f577-9972-474d-a6c5-8f4f0d26e7e2,Terri Garcia,Palau,False,False,False,Rejected- Missing Docs
+fde0e92a-1493-40e6-afc7-3cf83a9e1e45,Gregory Patterson,Moldova,True,True,True,Escalated - AML Alert
+1aca6717-b61d-446d-9984-13832dcb14a4,Anne Mata,Honduras,False,False,False,Rejected- Missing Docs
+d9a03332-05ec-4bcc-a94b-433d2e96d278,Shannon Baker,Oman,True,False,False,Rejected - KYC Failed
+18e6057a-f051-4f3d-af68-d2e91fec955b,William Campbell,Djibouti,True,False,True,approved
+fcf2d5f4-c44c-41c5-af58-386956cbbe7d,John Reed,Bahrain,False,False,True,Rejected- Missing Docs
+0b2e26b3-196c-4676-9f12-7ee230740fcc,Eddie Wells,Czech Republic,False,False,True,Rejected- Missing Docs
+a93d1a2e-ff2e-4d93-b34f-be15e7081eb0,Brian Meadows,Malawi,True,False,False,Rejected - KYC Failed
+293eefd6-cf06-44cb-8166-e00826514020,Carolyn Duran,Pitcairn Islands,False,False,True,Rejected- Missing Docs
+b6983a15-8cd8-46a4-93b9-a90eb5354623,Daniel Curry,Turkey,False,False,True,Rejected- Missing Docs
+10f889a6-6489-46be-9e35-809d16f133d1,Terri Hanson,Taiwan,True,False,False,Rejected - KYC Failed
+5207b27c-d436-4c86-af61-0b2ae4ca9969,Mary Nguyen,Brazil,False,False,False,Rejected- Missing Docs
+29b85d86-2e33-4549-874d-8c03193eafa9,Brian Ramsey,Indonesia,False,False,False,Rejected- Missing Docs
+31cd8a00-127a-4a41-ae94-efdd6374d33a,Aaron Mathis,Norway,True,False,False,Rejected - KYC Failed
+fd9bd9cf-74b1-4c6c-8e4e-1b71d9b7dbb5,April Bennett,Norfolk Island,True,False,False,Rejected - KYC Failed
+b1b33b76-4b8a-4705-860e-36850cd43287,Shawn Alvarez,Mozambique,False,False,False,Rejected- Missing Docs
+4576279f-31db-4d8c-b230-2646699cd716,Susan Green,Tonga,True,False,False,Rejected - KYC Failed
+7f51cd60-1852-4e22-9762-74de2abeba85,Amanda Baker,New Caledonia,False,True,True,Rejected- Missing Docs
+158e2860-423d-402f-ad9c-4bde7b2258dd,Danielle Rosario,Portugal,False,False,False,Rejected- Missing Docs
+b3efa055-522f-4199-a32f-e845c07c5033,Brenda Shaw,Bolivia,True,False,False,Rejected - KYC Failed
+d7b1a3f1-7523-46b1-b1b4-df6fb036c23e,Carolyn Leonard,Nigeria,True,False,False,Rejected - KYC Failed
+c547945d-befe-4f44-9b67-9185c994b3ce,Kristen Davis,Cuba,True,False,True,approved
+54dc025a-1526-42d6-a289-7c8b22a806be,Raymond Crosby,Hong Kong,False,False,True,Rejected- Missing Docs
+cf032dde-672c-46a5-963c-8b4242fba194,Brandon Mccullough,Norfolk Island,False,False,True,Rejected- Missing Docs
+ce595634-0920-40b4-a8c7-4e71b2a5b2c5,Mr. Jaime Adams,Christmas Island,False,False,False,Rejected- Missing Docs
+ecedc786-fc7f-43a1-93e1-e53e83ad80e9,Michael Jones,Bouvet Island (Bouvetoya),True,False,False,Rejected - KYC Failed
+12013598-4c55-4200-b974-90861c2247d9,Anthony Wells,Guernsey,False,False,False,Rejected- Missing Docs
+9533a2f4-d851-42b7-bccb-6ba30dfaa41e,Donald Preston,Yemen,False,False,False,Rejected- Missing Docs
+dd325574-8f78-44ea-b9fd-aa27d8ff858a,Nicholas Massey,Spain,False,False,False,Rejected- Missing Docs
+fe6cef5c-f5cd-4a93-aaa6-24961f52e94c,Christina White,Cape Verde,True,False,True,approved
+d3053091-d195-4c4c-89ad-be72c0350267,Pamela Reed,Kyrgyz Republic,False,False,False,Rejected- Missing Docs
+0fe57486-25c7-4ada-941e-c962539b8058,Michael Murray,Ireland,True,False,True,approved
+cdd31434-531a-4edc-9d3e-3bc00d3c1a57,Peter Hawkins,Solomon Islands,False,False,False,Rejected- Missing Docs
+fb2cd5ae-7734-4496-981d-fbd67a070b1b,William Jones,Guyana,False,False,False,Rejected- Missing Docs
+cd6e3a55-3801-43ae-b919-004e8d31f1ba,Brandon Garza,Malta,False,False,False,Rejected- Missing Docs
+8b26f910-d3a7-4bb1-9bfd-9bd824684d7a,Amy Bryant,British Indian Ocean Territory (Chagos Archipelago),True,False,False,Rejected - KYC Failed
+d828d71f-618b-430b-8c6c-43d79f312f91,Olivia George,Cameroon,True,False,False,Rejected - KYC Failed
+d1c066e5-f2f5-4197-b12c-52993e0f28c0,Heidi Campbell,Dominica,True,False,False,Rejected - KYC Failed
+2ce91450-5d87-4c0d-a28e-8f08e3001c21,Shelly Campbell,French Polynesia,False,False,True,Rejected- Missing Docs
+970b533a-c81d-4faf-bdfc-d6f87a49b56d,Anita Wagner,Slovakia (Slovak Republic),True,True,True,Escalated - AML Alert
+48effaa3-4018-4aa5-9b53-fd87e3b457d7,Glenn Oconnell,French Southern Territories,False,False,True,Rejected- Missing Docs
+19fd3e9d-1b59-434a-b65d-5429597f1e8b,Angela Fowler,Chad,True,False,True,approved
+3cf8d767-5bbb-43f3-83af-103f54e1bc5a,Chad Bowers,Syrian Arab Republic,False,False,False,Rejected- Missing Docs
+5a08f4ff-379f-4e12-b1b7-a80833d8bbe9,Sara Flores,Indonesia,True,False,True,approved
+424cc1f0-53cd-4035-9744-9b67e11df827,Stephen Hansen,Burundi,False,False,False,Rejected- Missing Docs
+784eb1f2-4126-4d46-ab5c-69b989670ad5,Dr. William Sanchez Jr.,Northern Mariana Islands,True,False,True,approved
+3c6f340d-0c41-4c1e-9cba-d1dd0cd1b71c,Matthew Murray,Kiribati,False,False,True,Rejected- Missing Docs
+accf60cb-a967-4f3f-ab61-5598a911df57,Harry Gutierrez,Swaziland,False,True,False,Rejected- Missing Docs
+47d66a04-ba4b-4bcc-b10e-e0905f8918d7,Christopher Holland,Costa Rica,False,True,False,Rejected- Missing Docs
+db72b90a-ab9c-423f-9451-1bcf990d008f,Alexis Wilson,Isle of Man,True,False,False,Rejected - KYC Failed
+52b27d2c-bcc6-4912-91a1-15c85db73b54,Kimberly Dougherty,Nicaragua,True,False,True,approved
+df2d2b73-013b-4e9d-b549-8277ebb85d73,Elizabeth Roberts,Senegal,True,False,True,approved
+d7ee7440-ea41-4674-8f78-3a8e3417d8c3,Nicolas Moody,Guadeloupe,True,False,True,approved
+9675adde-0d87-4a8e-9f62-2c0df9e019b7,Michelle Robinson,Niue,True,False,True,approved
+dda8c636-7097-4d7e-b2c7-f8e3f4b5d908,Dr. Robin Lewis,Guinea-Bissau,True,False,True,approved
+f1a7ddda-1464-4c1b-8632-a31cd4a88eab,Allison Hammond,Lebanon,False,False,True,Rejected- Missing Docs
+acb078df-6484-4858-a2c5-81d2c7567296,Johnathan King,Austria,False,False,True,Rejected- Missing Docs
+71d18278-db57-4d50-93e4-41f0cf9e8097,Bryan Steele,British Indian Ocean Territory (Chagos Archipelago),True,False,True,approved
+872e9ab9-6fa0-4290-a3bb-81a2411cec6d,Shannon Oliver,Monaco,True,False,True,approved
+a0a8b3c4-6821-4975-aa32-2ded4accec0a,Scott Holmes,Israel,True,True,True,Escalated - AML Alert
+2c75e78f-8572-45d2-9329-7bbec48f851c,Luke Johnson,Cayman Islands,False,True,False,Rejected- Missing Docs
+a6753b41-5fca-4f52-b29e-dbb5d9a8e4e4,Julie White,Palestinian Territory,True,False,False,Rejected - KYC Failed
+9a7155ad-8e3e-4bc8-a750-8ffcd7fa92a0,Debbie Mendez,Peru,True,False,False,Rejected - KYC Failed
+2ccbb58b-dd9f-4cee-86b2-a5eb9ac1e496,Steven Buchanan,Cambodia,False,False,True,Rejected- Missing Docs
+5b96c3e2-3556-4f8b-b426-e528597422b2,Lori Roberts,Myanmar,False,False,True,Rejected- Missing Docs
+fc927730-8055-48d3-9579-8a2948f74c11,Ashley Martinez,Chad,False,False,True,Rejected- Missing Docs
+ce29cfbc-9a9b-4687-8356-bbe72ced52f1,Charles Weber,Greenland,True,False,False,Rejected - KYC Failed
+a54a0702-a8c0-4345-806d-448fd780ec76,Christopher Cunningham,Uganda,False,False,False,Rejected- Missing Docs
+159896e0-cdf6-49ef-ac3d-c05e1f3a24e6,Jennifer Johnson,Cote d'Ivoire,False,True,True,Rejected- Missing Docs
+e45d4ea3-cd87-49eb-9690-45f7a0073677,Lori Li,Iraq,False,False,True,Rejected- Missing Docs
+a4d04995-e3e8-48dc-9d60-86b730adc1fe,Daniel Webb,Fiji,True,False,False,Rejected - KYC Failed
+ed3871a1-58cd-4285-bdf9-8aacb0ae1a7f,Emily Miller,Tanzania,False,False,False,Rejected- Missing Docs
+f5677e4c-647b-4771-8a95-acba2d44382b,Jason Kelley,Slovakia (Slovak Republic),False,False,False,Rejected- Missing Docs
+fa7c067d-7338-4710-ac08-6700d5e94d32,James Campbell,Pitcairn Islands,True,False,True,approved
+1b955c1e-691c-4794-8d77-4829d18ce93a,Kimberly Mcguire,Saint Kitts and Nevis,True,False,True,approved
+8bfdeb61-d300-46d6-9646-07564bf0a7a8,Rodney Dixon,Nauru,False,False,False,Rejected- Missing Docs
+af8eb952-a30a-4fc6-8812-0492e09dc558,Zachary Lopez,Greece,False,False,True,Rejected- Missing Docs
+b3c32b87-c133-404f-a868-d5fe51008ed2,Timothy Burns,Myanmar,False,False,False,Rejected- Missing Docs
+f92236dd-83fd-44bc-b127-e2dc410df1ba,David Smith,Philippines,False,False,False,Rejected- Missing Docs
+6e09f098-b0b1-44aa-8c70-f7981f2f8303,Cindy Smith,Serbia,True,True,True,Escalated - AML Alert
+0211ceed-e0b9-4afe-a591-e11d014a404c,Michael Hebert,Pakistan,True,False,False,Rejected - KYC Failed
+65c2d864-f142-472a-adf1-a78e6a50e39e,Tina Sparks,Kuwait,True,False,False,Rejected - KYC Failed
+5d366741-b0b1-4c10-8aac-a17e26529bf0,Kevin Turner,Costa Rica,True,False,False,Rejected - KYC Failed
+e13ff5c9-4e6b-40c4-8fdd-800261ff8f49,Anita Mitchell,Guinea-Bissau,True,False,False,Rejected - KYC Failed
+c7110861-f58a-432e-af5c-9314fdf7ebeb,Brittney Clements,Trinidad and Tobago,False,False,True,Rejected- Missing Docs
+da6b7cab-29fd-4fdc-abd0-06bbf74ba2f1,John Chandler,Seychelles,True,False,True,approved
+488fd913-733f-4d13-9503-6bc9b48b77c1,Hannah Mills,Portugal,True,False,False,Rejected - KYC Failed
+5b298166-72e8-438f-99a9-b28ddc82250c,Antonio Daniels,Costa Rica,True,False,True,approved
+a58900be-f1ee-4496-9d09-4d60f3ebe3d8,James Ellis,Holy See (Vatican City State),False,False,True,Rejected- Missing Docs
+d18c3868-ee81-429d-8bb0-abb4d3ab3f47,Johnathan Kirby,Albania,False,True,False,Rejected- Missing Docs
+234de460-d8ef-48f9-ac0a-57efa466a768,Abigail Jones,Cameroon,False,False,False,Rejected- Missing Docs
+3a3650fc-46bc-41fc-8a73-bcad75ffa73d,Kathy Nunez,Palau,True,False,True,approved
+18a8b659-8749-4e79-b50b-bc45f5b953c8,Erin Cook,Romania,False,True,True,Rejected- Missing Docs
+8342869a-6b9c-49af-bc93-c4765ba622b5,Allison Short,Reunion,True,False,True,approved
+d163e997-8c7a-49d1-80b5-8a4228cdcd7c,William Knight,Cyprus,False,False,False,Rejected- Missing Docs
+c121c45e-0fe7-4230-8cc3-cf44e928987f,Monica Chen,Burundi,True,False,False,Rejected - KYC Failed
+d6969e2f-179b-47db-925c-1787ef699733,Wendy Cox,Solomon Islands,True,False,True,approved
+6fb4c51c-145b-4621-8b31-c0debaa5ff35,Alan Pittman,Nicaragua,True,False,True,approved
+02590988-1192-4ddb-8f60-77cf7fc23fb4,Michael Jones,Austria,True,False,False,Rejected - KYC Failed
+1a009c29-cd84-4790-ab24-3834bb6e3a04,Linda Richardson,Kuwait,False,False,False,Rejected- Missing Docs
+acf366e3-2631-4296-b36b-26c369138c7f,Kristin Arnold,Germany,False,False,True,Rejected- Missing Docs
+c1e4cf6e-3d31-4bfb-a6cb-ab223c2d5b7b,Linda Garcia,Cambodia,False,False,False,Rejected- Missing Docs
+da1a6bb2-c264-4b40-a7a4-b18a541d963b,David Martin,Reunion,False,False,False,Rejected- Missing Docs
+d1565356-dbb6-4e49-a3df-4956298cfa30,Alexander Rodriguez,Poland,True,False,True,approved
+033332ad-4edf-41a4-932d-f31a838ad422,Melissa Vasquez,Botswana,True,False,True,approved
+05bb04ad-1293-426b-8788-6c50d1edb6b2,Hannah Peterson DVM,Kuwait,True,False,False,Rejected - KYC Failed
+7b3bbfff-83a7-4670-945c-dddd7329abc5,Kevin Walters,Ireland,False,False,False,Rejected- Missing Docs
+cffd39bb-2718-44be-a914-de0a729fb3e3,Steven Price,Korea,False,False,False,Rejected- Missing Docs
+bf8680f6-0398-4cdf-866d-40dcee6f4690,Kathleen Stephens,Guernsey,True,False,False,Rejected - KYC Failed
+205bd43c-2b29-45ee-b04d-442c6eb43d1f,Brittany Clark,Vietnam,True,False,True,approved
+f7f890cb-2d4c-4e69-891c-ec165456127d,Joe Sherman,Congo,False,True,True,Rejected- Missing Docs
+2e76c5ae-3d77-44ab-a0a6-7fc5c1daffc2,Phillip Michael,Latvia,False,False,False,Rejected- Missing Docs
+4d19d314-34c5-4687-a279-013c188f94a4,Sherri Martinez,Lesotho,False,False,False,Rejected- Missing Docs

@@ -9,7 +9,7 @@ This project demonstrates a typical onboarding pipeline in a financial instituti
 
 ##  Dashboard Preview
 
-![Client Onboarding Dashboard](https://github.com/your-username/client-onboarding-pipeline-simulation/blob/main/Screenshot%202025-07-06%20204458.png)
+![Client Onboarding Dashboard](https://github.com/intheperkofextinction/Client-Onboarding-Stimulation/blob/main/client_onboarding_dashboard.pdf)
 
 ---
 

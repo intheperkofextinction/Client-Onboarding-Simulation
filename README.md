@@ -40,6 +40,7 @@ This project demonstrates a typical onboarding pipeline in a financial instituti
         ┌───▼─┐ ┌─▼─────┐
         │Approve││Reject│
         └──────┘ └──────┘
+```
 
 ##  Live App
 

@@ -40,3 +40,8 @@ This project demonstrates a typical onboarding pipeline in a financial instituti
         ┌───▼─┐ ┌─▼─────┐
         │Approve││Reject│
         └──────┘ └──────┘
+
+##  Live App
+
+👉 [Click here to launch the dashboard](https://client-app-stimulation-55kg79jyvhshm7esbsptnp.streamlit.app/)
+

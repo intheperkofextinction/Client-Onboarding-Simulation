@@ -1,19 +1,24 @@
+#  Client Onboarding Pipeline Simulation
 
-# Client Onboarding Pipeline Simulation
+A simulated **end-to-end client onboarding workflow** for financial services, covering:
 
-A simulated end-to-end client onboarding dashboard using **Python**, **Faker**, and **Streamlit**.
+ Document Submission  
+ AML (Anti‑Money Laundering) Checks  
+ KYC (Know Your Customer) Verification  
+ Compliance Review  
+ Final Approval or Escalation  
 
-This project demonstrates a typical onboarding pipeline in a financial institution, including document submission, AML checks, KYC verification, and review decisions.
+This project replicates how banks and fintechs evaluate and approve new clients using synthetic data and an interactive dashboard.
 
 ---
 
-##  Dashboard Preview
+##  Live App
 
-![Client Onboarding Dashboard](https://github.com/intheperkofextinction/Client-Onboarding-Stimulation/blob/main/client_onboarding_dashboard.pdf)
+ [Click here to explore the dashboard](https://client-app-stimulation-55kg79jyvhshm7esbsptnp.streamlit.app/)
 
 ---
 
-## Onboarding Process Flow
+##  Onboarding Process Flowchart
 
 ```text
          ┌──────────────┐
@@ -21,28 +26,55 @@ This project demonstrates a typical onboarding pipeline in a financial instituti
          └──────┬───────┘
                 │
                 ▼
-     ┌─────────────────────┐
-     │ Document Submission │
-     └──────┬──────────────┘
-            │
-     ┌──────▼──────────────┐
-     │ AML Check           │
-     └──────┬──────────────┘
-            │
-     ┌──────▼──────────────┐
-     │ KYC Verification     │
-     └──────┬──────────────┘
-            │
-     ┌──────▼──────────────┐
-     │ Internal Review     │
-     └──────┬─────┬────────┘
-            │     │
-        ┌───▼─┐ ┌─▼─────┐
-        │Approve││Reject│
+   ┌────────────────────────┐
+   │ Document Submission    │
+   └──────┬─────────────────┘
+          │
+          ▼
+    ┌───────────────┐
+    │ AML Check     │
+    └──────┬────────┘
+           │
+           ▼
+    ┌───────────────┐
+    │ KYC Verification│
+    └──────┬────────┘
+           │
+           ▼
+    ┌───────────────┐
+    │ Internal Review│
+    └──────┬───┬────┘
+           │   │
+        ┌─▼─┐ ┌▼─────┐
+        │✅  │ │❌   │
+        │Approved││Rejected│
         └──────┘ └──────┘
 ```
 
-##  Live App
+## How the Data Was Created
 
-👉 [Click here to launch the dashboard](https://client-app-stimulation-55kg79jyvhshm7esbsptnp.streamlit.app/)
+Synthetic client data is generated using the Faker library. It simulates:
+
+Full names
+
+Nationality
+
+Document submission status
+
+AML flags
+
+KYC verification
+
+Review decisions
+
+[For the data generation script.]((generate_client_data.py))
+
+## Tech Stack
+**Tool**	**Purpose**
+Python	Core logic and data processing
+Faker	Synthesizing client data
+Pandas	Data manipulation and filtering
+Streamlit	Building interactive dashboard interface
+Plotly	Dynamic and responsive visualizations
+
 

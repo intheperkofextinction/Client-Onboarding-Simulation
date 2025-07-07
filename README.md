@@ -67,14 +67,20 @@ KYC verification
 
 Review decisions
 
-[For the data generation script.]((generate_client_data.py))
+[For the data generation script.](https://github.com/intheperkofextinction/Client-Onboarding-Simulation/blob/main/Client%20Onboarding%20Pipeline%20Simulation%20(1).ipynb)
 
 ## Tech Stack
-**Tool**	**Purpose**
-Python	Core logic and data processing
-Faker	Synthesizing client data
-Pandas	Data manipulation and filtering
-Streamlit	Building interactive dashboard interface
-Plotly	Dynamic and responsive visualizations
+**Tool**       	**Purpose**
+
+Python         	Core logic and data processing
+
+Faker          	Synthesizing client data
+
+Pandas	         Data manipulation and filtering
+
+Streamlit     	Building interactive dashboard interface
+
+Plotly	Dynamic 
+and responsive  visualizations
 
 

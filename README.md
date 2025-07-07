@@ -80,7 +80,7 @@ Pandas	   -      Data manipulation and filtering
 
 Streamlit   -  	Building interactive dashboard interface
 
-Plotly	Dynamic  -
-and responsive  visualizations
+Plotly	Dynamic  
+and responsive  - visualizations
 
 

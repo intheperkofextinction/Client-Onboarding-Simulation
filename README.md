@@ -72,15 +72,15 @@ Review decisions
 ## Tech Stack
 **Tool**       	**Purpose**
 
-Python         	Core logic and data processing
+Python   -      	Core logic and data processing
 
-Faker          	Synthesizing client data
+Faker    -      	Synthesizing client data
 
-Pandas	         Data manipulation and filtering
+Pandas	   -      Data manipulation and filtering
 
-Streamlit     	Building interactive dashboard interface
+Streamlit   -  	Building interactive dashboard interface
 
-Plotly	Dynamic 
+Plotly	Dynamic  -
 and responsive  visualizations
 
 
